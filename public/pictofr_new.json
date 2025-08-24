@@ -1,0 +1,1962 @@
+[
+  {
+    "id": 1,
+    "name": "Attaque\naméliorée",
+    "zone": "Vallons fleuris",
+    "niveau": "2",
+    "bonus": "Défense 8\n Vitesse 10\nDégâts d'attaque de base augmentés de 50 %.",
+    "emplacement": "Obtenu en\nbattant le Lancelier Chromatique dans le couloir des\nclairières."
+  },
+  {
+    "id": 2,
+    "name": "Attaque\nrenforçante",
+    "zone": "Vallons fleuris",
+    "niveau": "1",
+    "bonus": "Vitesse 12\n Chances de critique 3 %\nLes attaques de base confèrent Surpuissance pendant 1 tour.",
+    "emplacement": "Après avoir\nbattu l’Evêque, partez du message laissé en rouge puis suivez le\nchemin sur la gauche. Le picto est au bout d’une pointe\nrocheuse."
+  },
+  {
+    "id": 3,
+    "name": "Brûlures\nCritiques",
+    "zone": "Vallons fleuris",
+    "niveau": "1",
+    "bonus": "Vitesse 8\n Chances de critique 6 %\nChances de critique augmentées de 25 % contre les ennemis affectés\npar Brûlure.",
+    "emplacement": "Dans la\npetite grotte à droite après avoir battu les premiers Lanceliers\ndans le couloir des clairières."
+  },
+  {
+    "id": 4,
+    "name": "Énergie\nMortelle II",
+    "zone": "Vallons fleuris",
+    "niveau": "1",
+    "bonus": "Vitesse 4\n Chances de critique 9 %\n+3 PA en tuant un ennemi.",
+    "emplacement": "Au camp\nd’expédition abandonné, après avoir rencontré l’Amphorien blanc,\nsuivez le chemin à droite dans la zone suivante jusqu’à des\ncaisses."
+  },
+  {
+    "id": 5,
+    "name": "Insaisissable",
+    "zone": "Vallons fleuris",
+    "niveau": "1",
+    "bonus": "Vitesse 12\n Chances de critique 3 %\n+1 PA en réussissant une esquive parfaite. Une fois par tour.",
+    "emplacement": "Obtenu\nautomatique après le premier combat fait avec Lune."
+  },
+  {
+    "id": 6,
+    "name": "Renaissance\nprotégée",
+    "zone": "Vallons fleuris",
+    "niveau": "12",
+    "bonus": "Défense 218\n Vitesse 108\n+1 bouclier quand le personnage est ranimé",
+    "emplacement": "Au camp\nd’expédition abandonné, cassez le rocher face à L’Amphorien blanc à\nl’aide du pouvoir Brise Peinture et suivez le chemin jusqu’à\ntrouver le picto au pied d’un corp."
+  },
+  {
+    "id": 7,
+    "name": "Teinte\npurificatrice",
+    "zone": "Vallons fleuris",
+    "niveau": "1",
+    "bonus": "Santé 35\nDéfense 6\n Les teintes curatives dissipent également les altérations de la\ncible.",
+    "emplacement": "Obtenu en\nbattant l’Evêque."
+  },
+  {
+    "id": 8,
+    "name": "Tirs\nBrûlants",
+    "zone": "Vallons fleuris",
+    "niveau": "1",
+    "bonus": "Vitesse 15\n Chances de critique 2 %\n20 % de chances d’appliquer Brûlure sur les tirs en visée\nlibre.",
+    "emplacement": "Au camp\nd’expédition abandonné, près du bord de la falaise après avoir\nrencontré l’Amphorien blanc."
+  },
+  {
+    "id": 9,
+    "name": "Attaque\nFracturante",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Vitesse 21\n Chances de critique 4 %\nDégâts de Fracture augmentés de 50 % lors des attaques de base",
+    "emplacement": "En partant du\ndrapeau de la Grotte de Corail, dirigez-vous vers la droite."
+  },
+  {
+    "id": 10,
+    "name": "Attaque\nFragilisante",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Vitesse 20\n Chances de critique 4 %\nLes attaques de base infligent Vulnérabilité pendant 1 tour.",
+    "emplacement": "À acheter à\nNoco après l’avoir affronté."
+  },
+  {
+    "id": 11,
+    "name": "Contre\namélioré I",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Santé 90\n Chances de critique 4 %\nDégâts de contre augmentés de 25 %.",
+    "emplacement": "Obtenu en\nbattant le Bourgeon."
+  },
+  {
+    "id": 12,
+    "name": "Danger\nProtecteur",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Défense 13\n Vitesse 14\n Gagne Carapace en tombant en dessous de 50 % de santé.",
+    "emplacement": "Face à\nl’ancre géante, partez vers la gauche pour trouver le picto\nderrière les algues."
+  },
+  {
+    "id": 13,
+    "name": "Fracture\nÉnergisante",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Vitesse 14\n Chances de critique 7 %\n+3 PA en infligeant Fracture à un ennemi.",
+    "emplacement": "Obtenu après\navoir battu le Troubadour Chromatique. Le picto se ramasse juste\nderrière lui."
+  },
+  {
+    "id": 14,
+    "name": "Marque\ngratifiante",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Défense 20\n Vitesse 7\n+2 PA en attaquant une cible marquée. Une fois par tour.",
+    "emplacement": "Après le\ndrapeau de la Grotte de Corail, montez la pente à votre\ngauche."
+  },
+  {
+    "id": 15,
+    "name": "Polyvalence",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Vitesse 21\n Chances de critique 4 %\nAprès un tir en visée libre, les dégâts d’attaque de base\naugmentent de 50 % pendant 1 tour.",
+    "emplacement": "Dans la rue\nde Lumière, utilisez le grappin pour monter sur les toits et\ntrouver le picto au pied de l’arbre rouge."
+  },
+  {
+    "id": 16,
+    "name": "Tirs\nMarquants",
+    "zone": "Océan suspendu",
+    "niveau": "3",
+    "bonus": "Vitesse 26\n Chances de critique 2 %\n20 % de chances d’appliquer Marque sur les tirs en visée libre.",
+    "emplacement": "Face au\nsentier éclairé de lanternes, suivez le chemin sur la gauche pour\ntrouver le pic dans le cul-de-sac."
+  },
+  {
+    "id": 17,
+    "name": "Visée\nAméliorée",
+    "zone": "Océan suspendu",
+    "niveau": "5",
+    "bonus": "Vitesse 39\n Chances de critique 5 %\nDégâts de visée libre augmentés de 50 %.",
+    "emplacement": "Près de\nl’épave, escaladez le pilier puis sautez de plateforme en\nplateforme pour atteint le picto."
+  },
+  {
+    "id": 18,
+    "name": "Énergie –\nDépart II",
+    "zone": "Sanctuaire ancien",
+    "niveau": "4",
+    "bonus": "Santé 175\n+1 PA au début du combat.",
+    "emplacement": "Escaladez la\nparoi près de la grotte pour trouver le picto dans une\nimpasse."
+  },
+  {
+    "id": 19,
+    "name": "Énergie de\nsaut",
+    "zone": "Sanctuaire ancien",
+    "niveau": "4",
+    "bonus": "Santé 44\n Vitesse 29\n+1 PA à chaque contre sauté.",
+    "emplacement": "En partant de\nla position du Petank, dirigez-vous vers la gauche pour trouver le\npicto."
+  },
+  {
+    "id": 20,
+    "name": "Étourdissement opportun",
+    "zone": "Sanctuaire ancien",
+    "niveau": "4",
+    "bonus": "Vitesse 35\n Chances de critique 2 %\nDégâts augmentés de 30 % contre les cibles étourdies.",
+    "emplacement": "Dans l’arène\ndu Sakapatate Ultime, baissez-vous pour entrer dans le recoin situé\nà droite et y trouver le picto."
+  },
+  {
+    "id": 21,
+    "name": "Fracture\naméliorée",
+    "zone": "Sanctuaire ancien",
+    "niveau": "5",
+    "bonus": "Vitesse 26\n Chances de critique 9 %\nDégâts de Fracture augmentés de 25 %.",
+    "emplacement": "Obtenu en\nbattant le Sakapatate Ultime."
+  },
+  {
+    "id": 22,
+    "name": "Marque\nbrûlante",
+    "zone": "Sanctuaire ancien",
+    "niveau": "4",
+    "bonus": "Santé 44\nDéfense 32\n Applique Brûlure en touchant un ennemi marqué.",
+    "emplacement": "Après avoir\ncroisé le Petank, suivez le chemin principal et longer la paroi sur\nla gauche pour trouve le picto légèrement en contrebas."
+  },
+  {
+    "id": 23,
+    "name": "Renaissance\nsurpuissante",
+    "zone": "Sanctuaire ancien",
+    "niveau": "8",
+    "bonus": "Vitesse 54\n Chances de critique 11 %\nConfère Surpuissance pendant 3 tours en revenant à la vie.",
+    "emplacement": "Obtenu en\nbattant le Bruleur Chromatique."
+  },
+  {
+    "id": 24,
+    "name": "Tir\nperforant",
+    "zone": "Sanctuaire ancien",
+    "niveau": "12",
+    "bonus": "Santé 546\n Chances de critique 15 %\nDégâts de visée libre augmentés de 25 %.Les tirs en visée libre ignorent les boucliers.",
+    "emplacement": "En partant du\ndrapeau d’expédition 63, avancez sur votre gauche jusqu’à atteindre\nune zone où se trouve un sakapatate. Là, vous devrez briser un\nrocher avec le pouvoir Brise peinture. Le picto se trouve au bout\ndu chemin."
+  },
+  {
+    "id": 25,
+    "name": "Vol de\nvie",
+    "zone": "Sanctuaire ancien",
+    "niveau": "4",
+    "bonus": "Santé 88\n Chances de critique 8 %\nLes attaques de base rendent 15 % de santé.",
+    "emplacement": "Après avoir\nbattu un Sakapatate, affrontez l’ennemi dans la partie droite de la\ncaverne pour récupérer le picto."
+  },
+  {
+    "id": 26,
+    "name": "Instant\ncritique",
+    "zone": "Village des Gestrals",
+    "niveau": "5",
+    "bonus": "Vitesse 26\n Chances de critique 9 %\nChances de critique augmentées de 50 % si la santé est en-dessous de 30 %.",
+    "emplacement": "À acheter au\npremier marchand du bazar Gestral."
+  },
+  {
+    "id": 27,
+    "name": "Marque\ncurative",
+    "zone": "Village des Gestrals",
+    "niveau": "5",
+    "bonus": "Défense 65\nRécupère 25 % de santé en touchant un ennemi marqué.",
+    "emplacement": "À acheté à\nl’escroc marchand du bazar Gestral."
+  },
+  {
+    "id": 28,
+    "name": "Roulette",
+    "zone": "Village des Gestrals",
+    "niveau": "5",
+    "bonus": "Défense 34\n Chances de critique 9 %\nChaque coup a 50 % de chances d’infliger soit 50 % soit 200 % des\ndégâts normaux.",
+    "emplacement": "Parler au\njoueur Gestral et répondez « Je m’en fiche » à sa question pour\nobtenir le picto."
+  },
+  {
+    "id": 29,
+    "name": "Tirs\nSurpuissants",
+    "zone": "Village des Gestrals",
+    "niveau": "12",
+    "bonus": "Santé 983\nDéfense 4420\n% de chances de gagner Surpuissance sur les tirs en visée\nlibre.",
+    "emplacement": "Utilisez le\npouvoir Brise Peinture pour casser le rocher près du docteur qui\ndort."
+  },
+  {
+    "id": 30,
+    "name": "Visée\naméliorée",
+    "zone": "Village des Gestrals",
+    "niveau": "5",
+    "bonus": "Vitesse 39\n Chances de critique 5 %\nDégâts de visée libre augmentés de 50 %.",
+    "emplacement": "Allez voir le\nmarchand Jujubrie au bazar Gestral et donnez lui le picto étrange\nrécupéré pendant le prologue. Il vous le réparera pour en faire un\npicto de Visée améliorée. Si vous possédez déjà ce picto, il en\naméliorera le niveau."
+  },
+  {
+    "id": 31,
+    "name": "Énergie –\nDépart III",
+    "zone": "Nid d’Esquie",
+    "niveau": "6",
+    "bonus": "Santé 320\n+1 PA au début du combat.",
+    "emplacement": "Sur le chemin\npour sortir de la grotte, après avoir utilisé le grappin."
+  },
+  {
+    "id": 32,
+    "name": "Initiative\naméliorée",
+    "zone": "Nid d’Esquie",
+    "niveau": "6",
+    "bonus": "Vitesse 51\n Chances de critique 5 %\nDégâts du premier coup augmentés de 50 %. Une fois par combat.",
+    "emplacement": "Obtenu en\nbattant François."
+  },
+  {
+    "id": 33,
+    "name": "Altéré",
+    "zone": "Falaises de Rochevague",
+    "niveau": "20",
+    "bonus": "Défense 1022\n Chances de critique 12 %\nDégâts augmentés de 15 % par altération sur le personnage.",
+    "emplacement": "Dans la zone\nde la vieille ferme, partez du drapeau et allez tout droit jusqu’au\nfond de la zone pour trouver un rocher. Utilisez Brise Peinture\npour le casser et découvrir un Gault Chromatique. Vous devrez\nbattre ce dernier pour obtenir le picto."
+  },
+  {
+    "id": 34,
+    "name": "Assurance",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Vitesse 41\n Chances de critique 10 %\nSubit 50 % de dégâts en moins mais ne peut pas recevoir de\nsoin.",
+    "emplacement": "Obtenu en\nbattant l’Hexga."
+  },
+  {
+    "id": 35,
+    "name": "Au seuil de\nla Mort",
+    "zone": "Falaises de Rochevague",
+    "niveau": "8",
+    "bonus": "Défense 96\n Chances de critique 11 %\nInflige 50 % de dégâts en plus si la santé est en dessous de 10 %.",
+    "emplacement": "Obtenu en\nbattant le Maître des Lampes."
+  },
+  {
+    "id": 36,
+    "name": "Carapace\nimmédiate",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Santé 411\n Applique Carapace pendant 3 tours au début du combat.",
+    "emplacement": "Obtenu en\naidant l’Hexga Blanc."
+  },
+  {
+    "id": 37,
+    "name": "Contre\nfracturant",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Vitesse 43\nChances de critique 10 %\nDégâts de Fracture augmentés de 50 % lors des contres.",
+    "emplacement": "Entrez dans\nle dirigeable écrasé pour trouver le picto."
+  },
+  {
+    "id": 38,
+    "name": "Danger\nsurpuissant",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Vitesse 43\nChances de critique 10 %\nGagne Surpuissance en tombant en dessous de 50 % de santé.",
+    "emplacement": "Derrière un\npilier rocheux de la zone centrale du temple de la Peintresse."
+  },
+  {
+    "id": 39,
+    "name": "Énergie\ndouloureuse",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Santé 308\nDéfense 24\n Plus aucun gain de PA en cas de parade réussie, mais +1 PA lorsque\nle personnage se fait toucher.",
+    "emplacement": "Obtenu en\nbattant le cultiste."
+  },
+  {
+    "id": 40,
+    "name": "Initiative",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Vitesse 41\n Chances de critique 10 %\nJoue en premier.",
+    "emplacement": "Grimpez sur\nles rochers en face du gazébo pour trouver le picto."
+  },
+  {
+    "id": 41,
+    "name": "Marque\naffaiblissante",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Défense 102\n Vitesse 21\n Les cibles marquées infligent 30 % de dégâts en moins.",
+    "emplacement": "Utilisez le\nGrappin pour trouver le picto sur le toit de l’immeuble."
+  },
+  {
+    "id": 42,
+    "name": "Mode\ndéfensif",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Santé 216\nDéfense 71\n Quand des dégâts sont subis, consomme 1 PA pour subir 30 % de dégâts\nen moins (si possible).",
+    "emplacement": "À trouver\nprès de l’accès arrière des Falaises de Rochevague."
+  },
+  {
+    "id": 43,
+    "name": "Parade\npérilleuse",
+    "zone": "Falaises de Rochevague",
+    "niveau": "8",
+    "bonus": "Vitesse 54\n Chances de critique 10 %\n+1 PA en cas de parade réussie, mais les dégâts subis sont\ndoublés.",
+    "emplacement": "Obtenu en\nbattant le Chevalière en or."
+  },
+  {
+    "id": 44,
+    "name": "Renaissance\nrégénérante",
+    "zone": "Falaises de Rochevague",
+    "niveau": "12",
+    "bonus": "Santé 546\nDéfense 218\n Confère Régénération pendant 3 en revenant à la vie.",
+    "emplacement": "Dans la zone\ndu Gault Chromatique, cherchez derrière la première maison à droite\nde l’entrée de la zone pour trouver le picto."
+  },
+  {
+    "id": 45,
+    "name": "Teinte\nCurative énergisante",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Santé 216\nDéfense 71\n Les teintes curatives confèrent également 1 PA.",
+    "emplacement": "Obtenu en\nbattant l’Hexga situé près des bâtiments."
+  },
+  {
+    "id": 46,
+    "name": "Tirs\nFracturants",
+    "zone": "Falaises de Rochevague",
+    "niveau": "7",
+    "bonus": "Vitesse 43\nChances de critique 10 %\nDégâts de Fracture augmentés de 50 % sur les tirs en visée\nlibre.",
+    "emplacement": "Après être\nsorti dans la Caverne des Marées, partez sur la droite et sautez\nsur les rochers pour trouver le picto."
+  },
+  {
+    "id": 47,
+    "name": "Pouvoir\népuisant",
+    "zone": "Grotte de Rochevague",
+    "niveau": "8",
+    "bonus": "Santé 270\nDéfense 96\nDégâts augmentés de 50 % en état d’Épuisement.",
+    "emplacement": "À ramasser au\nsol près de l’Hexga Chromatique."
+  },
+  {
+    "id": 48,
+    "name": "Renaissance\nénergisante",
+    "zone": "Grotte de Rochevague",
+    "niveau": "8",
+    "bonus": "Santé 270\nDéfense 96\n+3 PA pour tous les alliés lorsque ce personnage est ranimé.",
+    "emplacement": "Obtenu en\nbattant l’Hexga Chromatique."
+  },
+  {
+    "id": 49,
+    "name": "Dernier\nrempart accélérant",
+    "zone": "Arène secrète des Gestrals",
+    "niveau": "6",
+    "bonus": "Santé 168\n Vitesse 34\n Le personnage gagne Rapidité s’il se bat seul.",
+    "emplacement": "Obtenu après\navoir battu pour la première fois Bertrand les Grosses Mains."
+  },
+  {
+    "id": 50,
+    "name": "Dernier\nrempart critique",
+    "zone": "Arène secrète des Gestrals",
+    "niveau": "6",
+    "bonus": "Santé 168\nDéfense 50\n100 % de chances de critique en combattant seul.",
+    "emplacement": "Obtenu après\navoir battu pour la première fois Matthieu le Colosse."
+  },
+  {
+    "id": 51,
+    "name": "Dernier\nrempart protecteur",
+    "zone": "Arène secrète des Gestrals",
+    "niveau": "6",
+    "bonus": "Santé 168\nDéfense 50\n Le personnage gagne Carapace s’il se bat seul.",
+    "emplacement": "Obtenu après\navoir battu pour la première fois Dominique aux Grands Pieds."
+  },
+  {
+    "id": 52,
+    "name": "Dernier\nrempart renforçant",
+    "zone": "Arène secrète des Gestrals",
+    "niveau": "6",
+    "bonus": "Santé 168\n Chances de critique 10 %\nLe personnage gagne Surpuissance s’il se bat seul.",
+    "emplacement": "Obtenu après\navoir battu pour la première fois Julien Petite-Tête."
+  },
+  {
+    "id": 53,
+    "name": "Loup\nsolitaire",
+    "zone": "Arène secrète des Gestrals",
+    "niveau": "6",
+    "bonus": "Santé 168\nDéfense 50\n Inflige 50 % de dégâts en plus en combattant seul.",
+    "emplacement": "Obtenu après\navoir battu tous les adversaires de l’arène."
+  },
+  {
+    "id": 54,
+    "name": "Bombe\nfunèbre",
+    "zone": "Moisson Dorée",
+    "niveau": "7",
+    "bonus": "Vitesse 43\nChances de critique 10 %\nInflige des dégâts à tous les ennemis en mourant.",
+    "emplacement": "Après le\ndrapeau 68, longez la droite pour trouver le picto au fond d’un cul\nde sac."
+  },
+  {
+    "id": 55,
+    "name": "Energie –\nAttaque I",
+    "zone": "Moisson Dorée",
+    "niveau": "7",
+    "bonus": "Vitesse 62\n Chances de critique 5 %\n+1 PA à chaque attaque de base.",
+    "emplacement": "Obtenu en\nbattant le boss Glaise."
+  },
+  {
+    "id": 56,
+    "name": "Mort\nsubite",
+    "zone": "Moisson Dorée",
+    "niveau": "7",
+    "bonus": "Chances de\ncritique 26 %Se tue au début du combat",
+    "emplacement": "À acheter au\nmarchand Pinabby pour 5320 chroma."
+  },
+  {
+    "id": 57,
+    "name": "Travail\nd’équipe",
+    "zone": "Moisson Dorée",
+    "niveau": "7",
+    "bonus": "Santé 216\nDéfense 71\nDégâts augmentés de 10 % si tous les alliés sont encore en vie.",
+    "emplacement": "À acheter au\nmarchand Pinabby pour 9120 chroma, avoir l’avoir battu."
+  },
+  {
+    "id": 58,
+    "name": "Affinité\ninversée",
+    "zone": "Terres Oubliées",
+    "niveau": "8",
+    "bonus": "Santé 270\n Chances de critique 11 %\nApplique Inversion sur soi-même pendant 3 tours au début du\ncombat.",
+    "emplacement": "À acheter à\nKasumi, un marchand Gestral, pour 9 870 chroma."
+  },
+  {
+    "id": 59,
+    "name": "Attaque combo\nI",
+    "zone": "Terres Oubliées",
+    "niveau": "9",
+    "bonus": "Vitesse 93\n Chances de critique 6 %\nL’attaque de base permet de porter 1 coup supplémentaire.",
+    "emplacement": "Obtenu en\nbattant le boss le Dualliste."
+  },
+  {
+    "id": 60,
+    "name": "Carapace\nprolongée",
+    "zone": "Terres Oubliées",
+    "niveau": "8",
+    "bonus": "Santé 257\nDéfense 92\n En appliquant Carapace, sa durée augmente de 2 .",
+    "emplacement": "Obtenu en\nbattant les premiers ennemis de la zone."
+  },
+  {
+    "id": 61,
+    "name": "Élimination\nrevigorante",
+    "zone": "Terres Oubliées",
+    "niveau": "8",
+    "bonus": "Vitesse 54\n Chances de critique 11 %\nRécupère 50 % de santé en tuant un ennemi.",
+    "emplacement": "Dans la\npremière zone des Terres oubliées, à gauche. Traversez la\npasserelle de bois et affrontez le Nevron pour trouver le picto\nderrière lui."
+  },
+  {
+    "id": 62,
+    "name": "Énergie –\nDépart IV",
+    "zone": "Terres Oubliées",
+    "niveau": "8",
+    "bonus": "Santé 513\n+1 PA au début du combat.",
+    "emplacement": "Dans\nl’impasse à gauche en face de l’entrée du Fort."
+  },
+  {
+    "id": 63,
+    "name": "Énergie –\nParade",
+    "zone": "Terres Oubliées",
+    "niveau": "9",
+    "bonus": "Santé 626\n+ 1 PA en cas de parade réussie.",
+    "emplacement": "Obtenu en\nbattant le Lustrion Chromatique."
+  },
+  {
+    "id": 64,
+    "name": "Mort\nénergisante",
+    "zone": "Terres Oubliées",
+    "niveau": "8",
+    "bonus": "Défense 96\n Vitesse 54\n Lorsque le personnage meurt, +4 PA aux alliés.",
+    "emplacement": "À gauche sur\nle balcon du Fort."
+  },
+  {
+    "id": 65,
+    "name": "Teinte de vie\nénergisante",
+    "zone": "Terres Oubliées",
+    "niveau": "8",
+    "bonus": "Santé 257\nDéfense 92\n Les teintes de vie confèrent également 3 PA.",
+    "emplacement": "Après avoir\nbattu le boss, entrez dans la forêt puis prenez la première à\ndroite. Empruntez ensuite le chemin de gauche pour trouver le\npicto."
+  },
+  {
+    "id": 66,
+    "name": "Teinte\nrenforçante",
+    "zone": "Terres Oubliées",
+    "niveau": "8",
+    "bonus": "Santé 270\n Vitesse 54\n Les teintes curatives confèrent également Surpuissance.",
+    "emplacement": "Sur le chemin\nà droite de la femme gommée, tournez à droite puis grimpez à la\ncorde pour trouver le picto en haut."
+  },
+  {
+    "id": 67,
+    "name": "Parade\nCurative",
+    "zone": "Carrières",
+    "niveau": "10",
+    "bonus": "Santé 395\nDéfense 152\nRécupère 3 % de santé à chaque parade réussie.",
+    "emplacement": "Obtenu en\nréussissant les 3 défis du Troubadour blanc."
+  },
+  {
+    "id": 68,
+    "name": "Première\noffensive",
+    "zone": "Grotte du Mitrien",
+    "niveau": "10",
+    "bonus": "Vitesse 75\n Chances de critique 13 %\nLe premier coup infligé et subi infligent 50 % de dégâts en\nplus.",
+    "emplacement": "Obtenu en\nbattant le Mitrien chromatique."
+  },
+  {
+    "id": 69,
+    "name": "Mort\nénergisante",
+    "zone": "Gare de Monoco",
+    "niveau": "21",
+    "bonus": "Défense 771\n Vitesse 308\n Lorsque le personnage meurt, +4 PA aux alliés.",
+    "emplacement": "À acheter\nauprès du marchand situé dans la Gare après lui avoir ramené de la\nglace éternelle. Coût 58 800 chroma."
+  },
+  {
+    "id": 70,
+    "name": "Rapidité\naméliorée",
+    "zone": "Gare de Monoco",
+    "niveau": "21",
+    "bonus": "Vitesse 439\n Chances de critique 12 %\n+25 % à l’augmentation de vitesse conférée par Rapidité.",
+    "emplacement": "À acheter\nauprès du marchand situé dans la Gare après lui avoir ramené de la\nglace éternelle. Coût 85 750 chroma."
+  },
+  {
+    "id": 71,
+    "name": "Survivant",
+    "zone": "Gare de Monoco",
+    "niveau": "21",
+    "bonus": "Vitesse 439\n Chances de critique 12 %\nPermet de survivre à une attaque fatale en conservant 1 PV. Une\nfois par combat.",
+    "emplacement": "À acheter\nauprès du marchand situé dans la Gare après lui avoir ramené de la\nglace éternelle. Coût 98 000 chroma."
+  },
+  {
+    "id": 72,
+    "name": "Tirs\nbrûlants",
+    "zone": "Gare de Monoco",
+    "niveau": "21",
+    "bonus": "Vitesse 555\n Chances de critique 5 %\n20 % de chances d’appliquer Brûlure sur les tirs en visée\nlibre.",
+    "emplacement": "À acheter\nauprès du marchand situé dans la Gare après lui avoir ramené de la\nglace éternelle. Coût 53 901 chroma."
+  },
+  {
+    "id": 73,
+    "name": "Affinité\nbrûlante",
+    "zone": "Glacier Ardent",
+    "niveau": "21",
+    "bonus": "Vitesse 439\n Chances de critique 12 %\nDégâts augmentés de 25 % contre les cibles affectées par\nBrûlure.",
+    "emplacement": "En partant de\nla porte du Manoir dans la zone du Veilleur Chromatique, prenez le\npassage sur la droite pour arriver sur un wagon. Vous y trouverez\nle picto posé dessus."
+  },
+  {
+    "id": 74,
+    "name": "Anti-brûlure",
+    "zone": "Glacier Ardent",
+    "niveau": "22",
+    "bonus": "Santé 1602\nDéfense 801\n Immunité contre Brûlure.",
+    "emplacement": "Obtenu en\nbattant le boss Gargant."
+  },
+  {
+    "id": 75,
+    "name": "Anti-gel",
+    "zone": "Glacier Ardent",
+    "niveau": "21",
+    "bonus": "Santé 1464\nDéfense 733\n Immunité contre Gel.",
+    "emplacement": "Récupérable\ndans la sphère de peinture de la zone Chutes de glace."
+  },
+  {
+    "id": 76,
+    "name": "Brûlure\nénergisante",
+    "zone": "Glacier Ardent",
+    "niveau": "22",
+    "bonus": "Défense 401\n Vitesse 321\n+1 PA en appliquant Brûlure. Une fois par tour.",
+    "emplacement": "Obtenu en\nbattant le Veilleur Chromatique dans la zone des Chutes de\nglace."
+  },
+  {
+    "id": 77,
+    "name": "Fracture\nbrûlante",
+    "zone": "Glacier Ardent",
+    "niveau": "21",
+    "bonus": "Santé 1541\n Chances de critique 24 %\nApplique 3 Brûlures en Fracturant un ennemi.",
+    "emplacement": "En partant du\ndrapeau de la zone des Chutes de glace, empruntez le chemin de\ngauche puis grimpez. Vous trouverez le picto sur votre gauche, sur\nune plateforme isolée."
+  },
+  {
+    "id": 78,
+    "name": "Mort\nbrûlante",
+    "zone": "Glacier Ardent",
+    "niveau": "21",
+    "bonus": "Vitesse 308\n Chances de critique 24 %\nApplique 3 Brûlures à tous les ennemis en mourant.",
+    "emplacement": "Obtenu en\nbattant les 3 danseuses dans la zone de la Gare prise dans la\nglace."
+  },
+  {
+    "id": 79,
+    "name": "Contre\ncuratif",
+    "zone": "Vieille Lumière",
+    "niveau": "10",
+    "bonus": "Santé 751\nRécupère 20 % de santé à chaque contre.",
+    "emplacement": "À acheter au\nmarchand à l’entrée de la zone pour 20 400 chroma."
+  },
+  {
+    "id": 80,
+    "name": "Mort\ncurative",
+    "zone": "Vieille Lumière",
+    "niveau": "10",
+    "bonus": "Vitesse 78\n Chances de critique 12 %\nLorsque le personnage meurt, les autres membres de l’expédition\nrécupèrent toute leur santé.",
+    "emplacement": "Vous devrez\naller affronter la chevalière en or dans la zone des Jardins du\nmanoir pour récupérer le picto posé derrière elle."
+  },
+  {
+    "id": 81,
+    "name": "Rapidité\nimmédiate",
+    "zone": "Vieille Lumière",
+    "niveau": "10",
+    "bonus": "Vitesse 112\n Chances de critique 7 %\nApplique Rapidité pendant 3 tours au début du combat.",
+    "emplacement": "Aux commandes\nde Maelle, vous trouverez une arche sur votre gauche menant à trois\nchevalières. Il vous faudra les battre pour récupérer le picto au\nsol."
+  },
+  {
+    "id": 82,
+    "name": "Renaissance\nparadoxale",
+    "zone": "Vieille Lumière",
+    "niveau": "11",
+    "bonus": "Vitesse 92\n Chances de critique 14 %\nJoue immédiatement quand ramené à la vie.",
+    "emplacement": "Partez du\ndrapeau Gare en ruine et dirigez vous vers la gare. Descendez une\ncorde et allez affronter la Danseuse Chromatique pour obtenir le\npicto."
+  },
+  {
+    "id": 83,
+    "name": "Surpuissance\nprolongée",
+    "zone": "Vieille Lumière",
+    "niveau": "10",
+    "bonus": "Santé 376\n Chances de critique 13 %\nEn appliquant Surpuissance, sa durée augmente de 2 .",
+    "emplacement": "À acheter au\nmarchand à l’entrée de la zone pour 20 400 chroma."
+  },
+  {
+    "id": 84,
+    "name": "Teinte\ntemporelle",
+    "zone": "Vieille Lumière",
+    "niveau": "10",
+    "bonus": "Santé 376\nDéfense 145\n Les teintes énergisantes confèrent également Rapidité.",
+    "emplacement": "Aux commandes\ndu trio Lune/Sciel/Monoco, empruntez la rue de droite. Pendant que\nMonoco parle de son peuple, regardez en contrebas pour apercevoir\nle picto. Il vous suffit de vous laisser tomber pour le\nrécupérer."
+  },
+  {
+    "id": 85,
+    "name": "Récupération",
+    "zone": "Bois Pourpre",
+    "niveau": "20",
+    "bonus": "Santé 2000\nDéfense 324\nRécupère 10 % de santé au début du tour.",
+    "emplacement": "Payez les\nmontants réclamés par le Bénisseur pour un total de 90 000\nchroma."
+  },
+  {
+    "id": 86,
+    "name": "Solidification",
+    "zone": "Caverne écrasante",
+    "niveau": "9",
+    "bonus": "Défense 116\n Vitesse 62\n+2 boucliers quand la santé du personnage tombe en dessous de 50 %.\nUne fois par combat.",
+    "emplacement": "Obtenu après\navoir battu l’Arbuscule Géant."
+  },
+  {
+    "id": 87,
+    "name": "Attaque\naccrue",
+    "zone": "Visages",
+    "niveau": "11",
+    "bonus": "Vitesse 132\n Chances de critique 7 %\nChaque fois que le personnages inflige des dégâts, il tente de\nconsommer 1 PA. S’il y parvient, les dégâts sont augmentés de 20 %.",
+    "emplacement": "Posé au sol\ndans le Val de la colère, juste à côté du contorsionniste."
+  },
+  {
+    "id": 88,
+    "name": "Canon de\nverre",
+    "zone": "Visages",
+    "niveau": "11",
+    "bonus": "Vitesse 175\n Inflige 25 % de dégâts en plus, mais les dégâts subis augmentent eux\naussi de 25 %.",
+    "emplacement": "En partant du\ndrapeau du Val de la tristesse, empruntez le chemin de gauche. Au\nbout, vous trouverez le picto non loin du Ramasseur\nchromatique."
+  },
+  {
+    "id": 89,
+    "name": "Contre\namélioré II",
+    "zone": "Visages",
+    "niveau": "12",
+    "bonus": "Défense 208\n Chances de critique 15 %\nDégâts de contre augmentés de 50 %.",
+    "emplacement": "Obtenu après\navoir battu le Ramasseur Chromatique."
+  },
+  {
+    "id": 90,
+    "name": "Double\nbrûlure",
+    "zone": "Visages",
+    "niveau": "11",
+    "bonus": "Vitesse 132\n Chances de critique 7 %\n+1 Brûlure pour chaque Brûlure infligée.",
+    "emplacement": "En sortant du\nManoir, prenez le chemin à droite et éliminez les ennemis pour\nrécupérer le picto au sol."
+  },
+  {
+    "id": 91,
+    "name": "Hardiesse",
+    "zone": "Visages",
+    "niveau": "11",
+    "bonus": "Santé 222\n Chances de critique 20 %\nDégâts augmentés de 30 % mais ne peut pas recevoir de soins.",
+    "emplacement": "En partant du\ndrapeau du Val de joie, avancez dans la clairière et prenez le\nchemin de droite. Vous trouverez le picto sous un arbre non loin\nd’un boucheclier."
+  },
+  {
+    "id": 92,
+    "name": "Immaculé",
+    "zone": "Visages",
+    "niveau": "12",
+    "bonus": "Vitesse 103\n Chances de critique 15 %\nLe personnage inflige 30 % de dégâts en plus tant qu’il ne se fait\npas toucher par les attaques ennemies.",
+    "emplacement": "Obtenu en\nbattant le Maître du Masque."
+  },
+  {
+    "id": 93,
+    "name": "Partage\ncuratif",
+    "zone": "Visages",
+    "niveau": "11",
+    "bonus": "Santé 467\n Chances de critique 14 %\nRécupère 15 % de tous les soins affectant les autres\npersonnages.",
+    "emplacement": "À acheter au\nmarchand Blouraga contre 19 200 chroma."
+  },
+  {
+    "id": 94,
+    "name": "Anti-charme",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Santé 599\nDéfense 240\n Immunité contre Charme.",
+    "emplacement": "Obtenu en\nbattant le Tisseur."
+  },
+  {
+    "id": 95,
+    "name": "Boucliers\naffinés",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Vitesse 118\n Chances de critique 16 %\nDégâts augmentés de 30 % tant que le personnage a des boucliers.\nMais tous ses boucliers sont perdus au moindre coup subi.",
+    "emplacement": "Récupérable\ndans la sphère de peinture de la zone Cours de danse."
+  },
+  {
+    "id": 96,
+    "name": "Carapace\naméliorée",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Santé 599\nDéfense 240\n+10 % à la réduction de dégâts conférée par Carapace.",
+    "emplacement": "Après avoir\nemprunté une plateforme volante non loin de la sphère de peinture,\nprenez le chemin de droite et éliminez les ennemis pour récupérer\nle picto tout au bout."
+  },
+  {
+    "id": 97,
+    "name": "Carapace\nSurpuissante",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Défense 240\n Chances de critique 16 %\nApplique également Surpuissance en appliquant Carapace.",
+    "emplacement": "Obtenu en\nbattant le Bénisseur."
+  },
+  {
+    "id": 98,
+    "name": "Double\nmarque",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Vitesse 236\n Les Marques requièrent un coup de plus pour être retirées.",
+    "emplacement": "À acheter au\nmarchand Klaudiso pour 42 400 chroma."
+  },
+  {
+    "id": 99,
+    "name": "Énergie –\nAttaque II",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Défense 120\n Vitesse 177\n+1 PA à chaque attaque de base.",
+    "emplacement": "À acheter au\nmarchand Klaudiso pour 37 100 chroma."
+  },
+  {
+    "id": 100,
+    "name": "Énergie –\nTour",
+    "zone": "Sirène",
+    "niveau": "31",
+    "bonus": "Vitesse 1277\n+1 PA au début du tour.",
+    "emplacement": "Obtenu en\nbattant le boss Sirène."
+  },
+  {
+    "id": 101,
+    "name": "Feu\ncuratif",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Défense 240\n Vitesse 118\nRécupère 25 % de santé en attaquant une cible en train de brûler.\nUne fois par tour.",
+    "emplacement": "En partant de\nl’emplacement de Glissando, partez sur la droite puis continuez à\navancer jusqu’à descendre une corde. Utilisez ensuite le grappin\npuis emprunter le petit passage pour trouver le picto."
+  },
+  {
+    "id": 102,
+    "name": "Mort\nprotectrice",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Santé 599\n Vitesse 118\n Lorsque le personnage meurt, ses alliés gagnent Caparace.",
+    "emplacement": "Après avoir\nparlé à un homme gommé, avancez puis prenez sur votre droite.\nÉliminez les ennemis pour récupérer le picto par terre dans le\nrecoin légèrement en hauteur."
+  },
+  {
+    "id": 103,
+    "name": "Régénération\nimmédiate",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Défense 479\n Applique Régénération pendant 3 tours au début du combat.",
+    "emplacement": "À ramasser\nnon loin du Bénisseur."
+  },
+  {
+    "id": 104,
+    "name": "Soins\nefficaces",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Santé 284\nDéfense 341\n Double tous les soins reçus",
+    "emplacement": "À ramasser au\nsol après avoir battu le Cultiste épéiste Chromatique."
+  },
+  {
+    "id": 105,
+    "name": "Surpuissance\naméliorée",
+    "zone": "Sirène",
+    "niveau": "13",
+    "bonus": "Vitesse 59\n Chances de critique 23 %\n+15 % à l’augmentation de dégâts conférée par Surpuissance.",
+    "emplacement": "À acheter au\nmarchand Klaudiso pour 37 100 chroma."
+  },
+  {
+    "id": 106,
+    "name": "Attaque\naffaiblissante",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Santé 389\nDéfense 478\n Les attaques de base infligent Affaiblissement pendant 1 tour.",
+    "emplacement": "Posé devant\nun corps près des immeubles ensevelis sous la neige."
+  },
+  {
+    "id": 107,
+    "name": "Attaque Combo\nII",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "29",
+    "bonus": "Vitesse 836\n Chances de critique 16 %\nL’attaque de base permet de porter 1 coup supplémentaire.",
+    "emplacement": "Après avoir\nbattu les deux boss de la zone, retournez à l’emplacement du\ndeuxième boss pour y trouver un Clair Obscur Chromatique. Vous\ndevez le battre pour obtenir le picto."
+  },
+  {
+    "id": 108,
+    "name": "Défense\naléatoire",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Chances de\ncritique 34 %Les dégâts subis sont aléatoirement multipliés par une valeur\ncomprise entre 50 % et 200 %.",
+    "emplacement": "Récupérable\ndans la sphère de peinture du Sanctuaire Corrompu."
+  },
+  {
+    "id": 109,
+    "name": "Énergie –\nfaiblesse",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Vitesse 152\n Chances de critique 17 %\n+1 PA en touchant une faiblesse. Une fois par tour.",
+    "emplacement": "Dans la zone\ndes Falaises Corrompues, lorsque vous arrivez face à trois ennemis\nmené par un Hexga, contourner le rocher par la droite pour trouver\nle picto."
+  },
+  {
+    "id": 110,
+    "name": "Fracture sur\nattaque",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Vitesse 154\n Chances de critique 17 %\nLes attaques de base peuvent Fracturer.",
+    "emplacement": "Obtenu en\nbattant le Clair Obscur de Lumière Corrompue non loin de l’Arc de\nTriomphe."
+  },
+  {
+    "id": 111,
+    "name": "Marque après\nMarque",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Vitesse 201\n Chances de critique 12 %\n50 % de chances d’appliquer Marque en attaquant une cible déjà\nmarquée.",
+    "emplacement": "À ramasser\nderrière le Bourgeon Chromatique."
+  },
+  {
+    "id": 112,
+    "name": "Parade\nrenforçante",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Vitesse 162\n Chances de critique 17 %\nChaque parade réussie augment les dégâts infligés de 5 % jusqu’à la\nfin du tour suivant. Le fait de subir le moindre dégât dissipe ce\nbuff.",
+    "emplacement": "Récupérable\ndans la sphère de peinture de la zone Coeurs Corrompus."
+  },
+  {
+    "id": 113,
+    "name": "Puissance\nSurpeinte",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "16",
+    "bonus": "Les dégâts\npeuvent excéder 9 999 points.",
+    "emplacement": "Obtenu en\nbattant la Peintresse."
+  },
+  {
+    "id": 114,
+    "name": "Purification\nénergisante",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Santé 1166\nDéfense 160\n Dissipe la première altération reçue et confère 2 PA.",
+    "emplacement": "À acheter au\nmarchand Mistra après l’avoir battu pour 40 800 chroma."
+  },
+  {
+    "id": 115,
+    "name": "Seconde\nChance",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "16",
+    "bonus": "Santé 1107\n Chances de critique 8 %\nRevient à la vie avec 100 % de santé. Une fois par combat.",
+    "emplacement": "Obtenu en\nbattant Renoir."
+  },
+  {
+    "id": 116,
+    "name": "Vulnérabilité\naméliorée",
+    "zone": "Intérieur du Monolithe",
+    "niveau": "15",
+    "bonus": "Vitesse 154\n Chances de critique 17 %\n+15 % à l’augmentation de dégâts imposée par Vulnérabilité.",
+    "emplacement": "À acheter au\nmarchand Mélosh après l’avoir battu pour 47 600 chroma."
+  },
+  {
+    "id": 117,
+    "name": "Charges sur\nétourdissement",
+    "zone": "Lumière",
+    "niveau": "16",
+    "bonus": "Santé 922\n Vitesse 182\n+5 % de charge Gradient en touchant un ennemi étourdi.",
+    "emplacement": "À ramasser au\npied de l’arbre sur la place où se trouvent les vendeurs de\nfleurs."
+  },
+  {
+    "id": 118,
+    "name": "Contre\namélioré III",
+    "zone": "Lumière",
+    "niveau": "17",
+    "bonus": "Défense 432\n Chances de critique 19 %\nDégâts de contre augmentés de 75 %.",
+    "emplacement": "Obtenu en\nbattant l’Échassier Chromatique."
+  },
+  {
+    "id": 119,
+    "name": "Énergie –\nsurpuissance",
+    "zone": "Lumière",
+    "niveau": "16",
+    "bonus": "Défense 373\n Vitesse 172\n Confère 2 PA en appliquant Surpuissance.",
+    "emplacement": "Le picto se\ntrouve sur le toit où Gustave se tient au tout début du jeu."
+  },
+  {
+    "id": 120,
+    "name": "Étourdissement curatif",
+    "zone": "Lumière",
+    "niveau": "16",
+    "bonus": "Santé 876\n Vitesse 173\nRécupère 5 % de santé en frappant une cible étourdie.",
+    "emplacement": "En sortant de\nl’opéra, allez sur votre gauche pour tomber deux fois sur des trios\nd’ennemis. Vous trouverez le picto un peu plus loin dans un cul de\nsac."
+  },
+  {
+    "id": 121,
+    "name": "Gradient\ncombattant",
+    "zone": "Lumière",
+    "niveau": "16",
+    "bonus": "Vitesse 182\n Chances de critique 18 %\nDégâts des attaques Gradient augmentés de 25 %.",
+    "emplacement": "Dans la\npartie gauche du jardin, éliminez les deux Névrons puis montez les\nescaliers pour trouver le picto."
+  },
+  {
+    "id": 122,
+    "name": "Pleine\npuissance",
+    "zone": "Lumière",
+    "niveau": "16",
+    "bonus": "Santé 876\nDéfense 373\nDégâts augmentés de 25 % quand la santé est au maximum.",
+    "emplacement": "À acheter au\nmarchand Cribappa contre 53 200 chroma."
+  },
+  {
+    "id": 123,
+    "name": "Plus vif que\nfort",
+    "zone": "Lumière",
+    "niveau": "16",
+    "bonus": "Santé 876\nDéfense 373\n Joue toujours deux fois de suite, mais inflige 50 % de dégâts en\nmoins.",
+    "emplacement": "Obtenu en\nbattant le mini-boss Création dans les Jardins de Lumière."
+  },
+  {
+    "id": 124,
+    "name": "Raccourci",
+    "zone": "Lumière",
+    "niveau": "16",
+    "bonus": "Vitesse 182\n Chances de critique 18 %\nJoue immédiatement si la santé tombe en dessous de 30 %. Une fois\npar combat.",
+    "emplacement": "Obtenu en\nbattant un premier ennemi Clair Obscur."
+  },
+  {
+    "id": 125,
+    "name": "Parade\npérilleuse",
+    "zone": "Sylve cramoisie",
+    "niveau": "18",
+    "bonus": "Vitesse 228\n Chances de critique 20 %\n+1 PA en cas de parade réussie, mais les dégâts subis sont\ndoublés.",
+    "emplacement": "Obtenu en\nbattant les 3 chevalières."
+  },
+  {
+    "id": 126,
+    "name": "Parade\npérilleuse",
+    "zone": "Sylve cramoisie",
+    "niveau": "20",
+    "bonus": "Vitesse 280\n Chances de critique 23 %\n+1 PA en cas de parade réussie, mais les dégâts subis sont\ndoublés.",
+    "emplacement": "Obtenu en\nbattant la chevalière d’or chromatique."
+  },
+  {
+    "id": 127,
+    "name": "Attaque\nrenforçante",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Vitesse 399\n Chances de critique 11 %\nLes attaques de base confèrent Surpuissance pendant 1 tour.",
+    "emplacement": "À acheter au\nGestral marchand pour 67 350 chroma après l’avoir battu."
+  },
+  {
+    "id": 128,
+    "name": "Boucliers\naffinés",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Vitesse 266\n Chances de critique 22 %\nDégâts augmentés de 30 % tant que le personnage a des boucliers.\nMais tous ses boucliers sont perdus au moindre coup subi.",
+    "emplacement": "À acheter au\nGestral marchand pour 78 575 chroma après l’avoir battu."
+  },
+  {
+    "id": 129,
+    "name": "Canon de\nverre",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Vitesse 532\n Inflige 25 % de dégâts en plus, mais les dégâts subis augmentent eux\naussi de 25 %.",
+    "emplacement": "À acheter au\nGestral marchand pour 67 350 chroma après l’avoir battu."
+  },
+  {
+    "id": 130,
+    "name": "Double\nbrûlure",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Vitesse 399\n Chances de critique 11 %\n+1 Brûlure pour chaque Brûlure infligée.",
+    "emplacement": "À acheter au\nGestral marchand pour 89 800 chroma après l’avoir battu."
+  },
+  {
+    "id": 131,
+    "name": "Énergie –\nParade",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Santé 2666\n+1 PA en cas de parade réussie.",
+    "emplacement": "À acheter au\nGestral marchand pour 78 575 chroma après l’avoir battu."
+  },
+  {
+    "id": 132,
+    "name": "Énergie –\nTour",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Vitesse 532\n+1 PA au début du tour.",
+    "emplacement": "À acheter au\nGestral marchand pour 89 800 chroma après l’avoir battu."
+  },
+  {
+    "id": 133,
+    "name": "Étourdissement Critique",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Défense 681\n Chances de critique 23 %\n100 % de chances de critique en frappant une cible étourdie.",
+    "emplacement": "À acheter au\nGestral marchand pour 53 880 chroma après l’avoir battu."
+  },
+  {
+    "id": 134,
+    "name": "Étourdissement opportun",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Vitesse 479\n Chances de critique 5 %\nDégâts augmentés de 30 % contre les cibles étourdies.",
+    "emplacement": "À acheter au\nGestral marchand pour 67 350 chroma après l’avoir battu."
+  },
+  {
+    "id": 135,
+    "name": "Marque\ngratifiante",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Défense 1022\n Vitesse 140\n+2 PA en attaquant une cible marquée. Une fois par tour.",
+    "emplacement": "À acheter au\nGestral marchand pour 53 880 chroma après l’avoir battu."
+  },
+  {
+    "id": 136,
+    "name": "Solidification",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Défense 647\n Vitesse 266\n+2 boucliers quand la santé du personnage tombe en dessous de 50 %.\nUne fois par combat.",
+    "emplacement": "À acheter au\nGestral marchand pour 67 350 chroma après l’avoir battu."
+  },
+  {
+    "id": 137,
+    "name": "Teinte de vie\nénergisante",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Santé 1333\nDéfense 647\n Les teintes de vie confèrent également 3 PA.",
+    "emplacement": "À acheter au\nGestral marchand pour 67 350 chroma après l’avoir battu."
+  },
+  {
+    "id": 138,
+    "name": "Tirs\nbrûlants",
+    "zone": "Fleuve Sacré",
+    "niveau": "20",
+    "bonus": "Vitesse 504\n Chances de critique 5 %\n20 % de chances d’appliquer Brûlure sur les tirs en visée\nlibre.",
+    "emplacement": "À acheter au\nGestral marchand pour 49 391 chroma après l’avoir battu."
+  },
+  {
+    "id": 139,
+    "name": "Altéré",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Défense 1022\n Chances de critique 12 %\nDégâts augmentés de 15 % par altération sur le personnage.",
+    "emplacement": "À acheter au\nmarchand Eragol pour 49 391 chroma."
+  },
+  {
+    "id": 140,
+    "name": "Anti-corruption",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Santé 1333\nDéfense 647\n Immunité contre Corruption.",
+    "emplacement": "À acheter au\nmarchand Eragol pour 67 350 chroma."
+  },
+  {
+    "id": 141,
+    "name": "Buff\nCuratif",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Défense 647\n Vitesse 266\nRécupère 15 % de santé en appliquant un buff.",
+    "emplacement": "En partant du\nmarchand Eragol, prenez la montgolfière. Après avoir battu les\norphelins, approchez-vous suffisamment du vide pour pouvoir\nutiliser le grappin et ainsi atteindre la plateforme en face.\nUtilisez à nouveau le grappin puis descendez la corde pour trouver\nle picto."
+  },
+  {
+    "id": 142,
+    "name": "Carapace\nprolongée",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Santé 1333\nDéfense 647\n En appliquant Carapace, sa durée augmente de 2 .",
+    "emplacement": "À ramasser au\nsol après un peu de plateforming sur des planches après les\npremiers échassiers."
+  },
+  {
+    "id": 143,
+    "name": "Charges sur\nattaque",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Vitesse 266\n Chances de critique 22 %\n+15 % de charge Gradient à chaque attaque de base.",
+    "emplacement": "Dans la zone\nMontagne, trouvez une ouverture vous obligeant à vous baisser et\nfaufilez vous. Une fois de l’autre côté, laissez-vous tomber sur le\ngauche pour trouver le picto au milieu de caisses."
+  },
+  {
+    "id": 144,
+    "name": "Charges sur\ncontre",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Santé 1333\nDéfense 647\n+10 % de charge Gradient à chaque contre.",
+    "emplacement": "Après avoir\ncroisé un homme gommé dans la zone Montagne, allez sur la droite et\nutilisez deux fois le grappin. Avancez ensuite jusqu’à tomber sur 2\néchassiers. Vous trouverez le picto au sol à côté d’eux."
+  },
+  {
+    "id": 145,
+    "name": "Charges sur\nfaiblesse",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Vitesse 280\n Chances de critiques 23 %+15 % de charge Gradient en touchant une faiblesse (une fois par\ntour).",
+    "emplacement": "À acheter au\nmarchand Eragol pour 53 880 chroma."
+  },
+  {
+    "id": 146,
+    "name": "Fracture\nfragilisante",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Défense 681\n Vitesse 280\n Applique Vulnérabilité en cas de Fracture.",
+    "emplacement": "À acheter au\nmarchand Eragol pour 53 880 chroma."
+  },
+  {
+    "id": 147,
+    "name": "Purification\ndrainante",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Santé 2000\nDéfense 324\n Consomme 1 PA pour empêcher l’application d’altérations (si\npossible).",
+    "emplacement": "Le picto se\ntrouve au sol juste derrière les deux Orphelins à battre."
+  },
+  {
+    "id": 148,
+    "name": "Soins\nprotecteurs",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Santé 1403\n Vitesse 280\n Soigner un allié lui applique également Carapace pendant 1\ntour.",
+    "emplacement": "À acheter au\nmarchand Eragol pour 53 880 chroma."
+  },
+  {
+    "id": 149,
+    "name": "Teinte\nprotectrice",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Santé 1402\nDéfense 681\n Les teintes curatives confèrent également Carapace.",
+    "emplacement": "Au bout d’un\ndes ponts de bois dans la Zone embrumée."
+  },
+  {
+    "id": 150,
+    "name": "Tireur\nd’Élite",
+    "zone": "L’Aspirante",
+    "niveau": "20",
+    "bonus": "Vitesse 420\n Chances de critique 12 %\nChaque tour, le premier tir en visée libre inflige 200 % de dégâts\nen plus et offre une possibilité de Fracture.",
+    "emplacement": "Obtenu en\nbattant votre premier Echassier dans la zone Montagne."
+  },
+  {
+    "id": 151,
+    "name": "Contamination\nbénéfique",
+    "zone": "Feuilles Ambrées",
+    "niveau": "14",
+    "bonus": "Défense 274\n Vitesse 135\n+2 PA en appliquant une altération. Une fois par tour.",
+    "emplacement": "À acheter au\nmarchand Persik contre 48 200 chroma."
+  },
+  {
+    "id": 152,
+    "name": "Danger\naccélérant",
+    "zone": "Feuilles Ambrées",
+    "niveau": "14",
+    "bonus": "Défense 288\n Vitesse 142\n Gagne Rapidité en tombant en dessous de 50 % de santé.",
+    "emplacement": "À partir du\ndrapeau de la zone du Bosquet du voile résineux, avancez tout droit\njusqu’à contourner une souche d’arbre pour trouver le picto."
+  },
+  {
+    "id": 153,
+    "name": "Au cœur de\nl’action",
+    "zone": "Rives Obscures",
+    "niveau": "23",
+    "bonus": "Défense 1310\n Chances de critique 13 %\n+3 boucliers au début du combat, mais le maximum de santé est\nréduit de moitié.",
+    "emplacement": "Rendez-vous\nau bout de la zone pour trouver le picto gardé par des\nNévrons."
+  },
+  {
+    "id": 154,
+    "name": "Mort\npréservante",
+    "zone": "Les Corbeaux",
+    "niveau": "22",
+    "bonus": "Défense 801\n Vitesse 161\n Lorsque le personnage meurt, ses alliés gagnent 3 boucliers.",
+    "emplacement": "Tuez tous les\ncorbeaux de la zone avec le mode Visée pour faire apparaître le\nChapelier Chromatique. Vous devez ensuite battre ce dernier pour\nobtenir le picto."
+  },
+  {
+    "id": 155,
+    "name": "Attaque Combo\nIII",
+    "zone": "Arène clandestine des Gestrals",
+    "niveau": "25",
+    "bonus": "Vitesse 619\n Chances de critique 14 %\nL’attaque de base permet de porter 1 coup supplémentaire.",
+    "emplacement": "Remporter le\ntroisième combat dans une arène accessible uniquement par voie\naérienne au-dessus de Moisson Dorée."
+  },
+  {
+    "id": 156,
+    "name": "Lenteur\naméliorée",
+    "zone": "Île Céleste",
+    "niveau": "20",
+    "bonus": "Défense 647\n Vitesse 266\n+15 % à la réduction de vitesse imposée par Lenteur.",
+    "emplacement": "Le picto se\ntrouve au bout de l’île, accessible après avoir grimpé quelques\nprises d’escalade. Le mini-niveau se situe dans les airs, à l’est\nde Grotte Côtière."
+  },
+  {
+    "id": 157,
+    "name": "Surpuissance\nimmédiate",
+    "zone": "Cimetière Flottant",
+    "niveau": "19",
+    "bonus": "Vitesse 241\n Chances de critique 20 %\nApplique Surpuissance pendant 3 tours au début du combat.",
+    "emplacement": "Affrontez le\nChalier et battez-le pour obtenir le picto. Attention, vous devez\naccepter de le tuer dans la foulée."
+  },
+  {
+    "id": 158,
+    "name": "Soins\nprotecteurs",
+    "zone": "Ruines Ésotériques",
+    "niveau": "10",
+    "bonus": "Santé 395\n Vitesse 78\n Soigner un allié lui applique également Carapace pendant 1\ntour.",
+    "emplacement": "Obtenu en\naidant le Portier."
+  },
+  {
+    "id": 159,
+    "name": "Bouclier\nbasique",
+    "zone": "Croisée des Chemins",
+    "niveau": "20",
+    "bonus": "Vitesse 378\n Chances de critique 11 %\n+1 bouclier si le personnage n’a aucun bouclier au début du\ntour.",
+    "emplacement": "Après avoir\nréussi tous les combats de la zone, montez les escaliers et passez\nla porte pour récupérer le picto au sol."
+  },
+  {
+    "id": 160,
+    "name": "Attaque\nprotectrice",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Santé 3\n081Défense 524\n Les attaques de base confèrent Carapace pendant 1 tour.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 100 050 chroma."
+  },
+  {
+    "id": 161,
+    "name": "Bouclier\nsurpuissant",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Vitesse 651\n Chances de critique 14 %\nDégâts augmentés de 10 % par point de bouclier sur le\npersonnage.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 80 040 chroma."
+  },
+  {
+    "id": 162,
+    "name": "Brûlures\ncritiques",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Vitesse 413\n Chances de critique 27 %\nChances de critique augmentées de 25 % contre les ennemis affectés\npar Brûlure.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 116 725 chroma."
+  },
+  {
+    "id": 163,
+    "name": "Charges sur\nmarque",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Vitesse 413\n Chances de critique 27 %\n+20 % de charge Gradient en touchant une cible marquée. Une fois par\ntour.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 100 050 chroma."
+  },
+  {
+    "id": 164,
+    "name": "Fracture\naccélérante",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Vitesse 434\n Chances de critique 28 %\nRejoue en cas de Fracture réussie.",
+    "emplacement": "Obtenu en\nbattant le Cruleur Chromatique."
+  },
+  {
+    "id": 165,
+    "name": "Fracture\nGradient",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Vitesse 434\n Chances de critique 28 %\n+50 % de charge Gradient en infligeant une Fracture à une\ncible.",
+    "emplacement": "En partant du\nGrandis, empruntez le chemin du milieu puis tournez à droite. Vous\ntrouverez le picto dans un renfoncement sur votre gauche."
+  },
+  {
+    "id": 166,
+    "name": "Fracture\nmarquante",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Vitesse 434\n Chances de critique 28 %\nApplique Marque en cas de Fracture.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 80 040 chroma."
+  },
+  {
+    "id": 167,
+    "name": "Polyvalence",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Vitesse 651\n Chances de critique 14 %\nAprès un tir en visée libre, les dégâts d’attaque de base\naugmentent de 50 % pendant 1 tour.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 80 040 chroma."
+  },
+  {
+    "id": 168,
+    "name": "Rapidité\nprotectrice",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Défense 1048\n Vitesse 413\n Applique également Carapace en appliquant Rapidité.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 100 050 chroma."
+  },
+  {
+    "id": 169,
+    "name": "Soins\nsurpuissants",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Santé 2\n162 Vitesse 434\n Soigner un allié lui applique également Surpuissance pendant 1\ntour.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 80 040 chroma."
+  },
+  {
+    "id": 170,
+    "name": "Teinte\naccélérante",
+    "zone": "Sanctuaire de la Nuit Éternelle",
+    "niveau": "25",
+    "bonus": "Santé 2\n162 Vitesse 434\n Les teintes curatives confèrent également Rapidité.",
+    "emplacement": "À acheter au\nmarchand Anthonypo pour 80 040 chroma."
+  },
+  {
+    "id": 171,
+    "name": "Charges sur\nBrûlure",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Santé 3\n152 Vitesse 639\n+ 20 % de charge Gradient en infligeant Brûlure à une cible. Une\nfois par tour.",
+    "emplacement": "Passez\nderrière le marchand Grour et sautez que la passerelle pour y\ntrouver le picto."
+  },
+  {
+    "id": 172,
+    "name": "Charges sur\ncritiques",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Défense 1\n891 Chances de critique 35 %\n+20 % de charge Gradient en cas de coup critique. Une fois par\ntour.",
+    "emplacement": "Utilisez\nvotre grappin au toit où se trouve le marchand puis sautez de\nplateforme en plateforme sur la droite pour atteindre le\npicto."
+  },
+  {
+    "id": 173,
+    "name": "Contre\namélioré I",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Santé 4\n727 Chances de critique 18 %\nDégâts de contre augmentés de 25 %.",
+    "emplacement": "À acheter au\nmarchand Grour pour 122 125 chroma."
+  },
+  {
+    "id": 174,
+    "name": "Élimination\nrevigorante",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 672\n Chances de critique 36 %\nRécupère 50 % de santé en tuant un ennemi.",
+    "emplacement": "À acheter au\nmarchand Grour pour 107 471 chroma."
+  },
+  {
+    "id": 175,
+    "name": "Énergie –\nAttaque I",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 958\n Chances de critique 18 %\n+1 PA à chaque attaque de base.",
+    "emplacement": "À acheter au\nmarchand Grour pour 146 550 chroma."
+  },
+  {
+    "id": 176,
+    "name": "Énergie –\nParade",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Santé 6\n303+1 PA en cas de parade réussie.",
+    "emplacement": "À acheter au\nmarchand Grour pour 170 975 chroma."
+  },
+  {
+    "id": 177,
+    "name": "Énergie –\nTour",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 1\n277+1 PA au début du tour.",
+    "emplacement": "À acheter au\nmarchand Grour pour 195 400 chroma."
+  },
+  {
+    "id": 178,
+    "name": "Fracture\naccélérante",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 672\n Chances de critique 36 %\nRejoue en cas de Fracture réussie.",
+    "emplacement": "Au sol\nderrière les Contorsionnistes."
+  },
+  {
+    "id": 179,
+    "name": "Initiative\naméliorée",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 1\n008 Chances de critique 18 %\nDégâts du premier coup augmentés de 50 %. Une fois par combat.",
+    "emplacement": "À acheter au\nmarchand Grour pour 117 240 chroma."
+  },
+  {
+    "id": 180,
+    "name": "Loup\nsolitaire",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Santé 3\n317Défense 1\n 990 Inflige 50 % de dégâts en plus en combattant seul.",
+    "emplacement": "À acheter au\nmarchand Grour pour 97 700 chroma."
+  },
+  {
+    "id": 181,
+    "name": "Raccourci",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 672\n Chances de critique 36 %\nJoue immédiatement si la santé tombe en dessous de 30 %. Une fois\npar combat.",
+    "emplacement": "Obtenu en\nbattant les premiers ennemis de la zone de départ."
+  },
+  {
+    "id": 182,
+    "name": "Renaissance\nprotégée",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Défense 1\n990 Vitesse 672\n+1 bouclier quand le personnage est ranimé.",
+    "emplacement": "À acheter au\nmarchand Grour pour 117 240 chroma."
+  },
+  {
+    "id": 183,
+    "name": "Seconde\nchance",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Santé 3\n981 Chances de critique 15 %\nRevient à la vie avec 100 % de santé. Une fois par combat.",
+    "emplacement": "Obtenu en\nbattant deux Créations."
+  },
+  {
+    "id": 184,
+    "name": "Surpuissance\nrapide",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 639\n Chances de critique 35 %\nApplique également Rapidité en appliquant Surpuissance.",
+    "emplacement": "Dans la zone\nde l’Arbre doré, au bout du chemin après le trio d’ennemis."
+  },
+  {
+    "id": 185,
+    "name": "Tireur\nd’élite",
+    "zone": "Esquisses de Renoir",
+    "niveau": "31",
+    "bonus": "Vitesse 1008\n Chances de critique 18 %\nChaque tour, le premier tir en visée libre inflige 200 % de dégâts\nen plus et offre une possibilité de Fracture.",
+    "emplacement": "Battre les\ndeux échassiers et la moissonneuse."
+  },
+  {
+    "id": 186,
+    "name": "Au seuil de\nla mort",
+    "zone": "L’Atelier",
+    "niveau": "30",
+    "bonus": "Défense 1817\n Chances de critique 34 %\nInflige 50 % de dégâts en plus si la santé est en dessous de 10 %.",
+    "emplacement": "Obtenu en\nbattant le Maître des Lampes de l’Atelier."
+  },
+  {
+    "id": 187,
+    "name": "Énergie –\nAttaque I",
+    "zone": "L’Atelier",
+    "niveau": "30",
+    "bonus": "Vitesse 895\n Chances de critique 17 %\n+1 PA à chaque attaque de base.",
+    "emplacement": "Obtenu en\nbattant le Maître des Lampes de l’Atelier."
+  },
+  {
+    "id": 188,
+    "name": "Affaiblissement amélioré",
+    "zone": "Tour Éternelle",
+    "niveau": "30",
+    "bonus": "Défense 1\n727 Vitesse 597\n+15 % à la réduction de dégâts infligée par Affaiblissement.",
+    "emplacement": "Obtenu en\nréussissant le Niveau 10, Epreuve 3 de la tour."
+  },
+  {
+    "id": 189,
+    "name": "Charges sur\ncritiques",
+    "zone": "Tour Éternelle",
+    "niveau": "31",
+    "bonus": "Défense 1\n891 Chances de critique 35 %\n+20 % de charge Gradient en cas de coup critique. Une fois par\ntour.",
+    "emplacement": "Obtenu en\nréussissant le Niveau 5, Epreuve 3 de la tour."
+  },
+  {
+    "id": 190,
+    "name": "Critiques sur\nfaiblesse",
+    "zone": "Tour Éternelle",
+    "niveau": "26",
+    "bonus": "Vitesse 670\n Chances de critique 14 %\nChances de critique augmentées de 25 % en attaquant une faiblesse de\nl’ennemi.",
+    "emplacement": "Obtenu en\nréussissant le Niveau 6, Epreuve 3 de la tour."
+  },
+  {
+    "id": 191,
+    "name": "Énergie –\nRapidité",
+    "zone": "Tour Éternelle",
+    "niveau": "22",
+    "bonus": "Défense 801\n Vitesse 321\n Confère 2 PA en appliquant Rapidité.",
+    "emplacement": "Obtenu en\nréussissant le Niveau 2, Epreuve 3 de la tour."
+  },
+  {
+    "id": 192,
+    "name": "Fracture\nembrasante",
+    "zone": "Tour Éternelle",
+    "niveau": "27",
+    "bonus": "Vitesse 507\n Chances de critique 31 %\nFracturer une cible double son nombre de Brûlures.",
+    "emplacement": "Obtenu en\nréussissant le Niveau 7, Epreuve 3 de la tour."
+  },
+  {
+    "id": 193,
+    "name": "Surpuissance\nRapide",
+    "zone": "Tour Éternelle",
+    "niveau": "31",
+    "bonus": "Vitesse 639\n Chances de critique 35 %\nApplique également Rapidité en appliquant Surpuissance.",
+    "emplacement": "Obtenu en\nréussissant le Niveau 9, Epreuve 3 de la tour."
+  },
+  {
+    "id": 194,
+    "name": "Teinte\nrenforçante",
+    "zone": "Tour Éternelle",
+    "niveau": "28",
+    "bonus": "Santé 2\n705 Vitesse 546\n Les teintes curatives confèrent également Surpuissance.",
+    "emplacement": "Obtenu en\nréussissant le Niveau 8, Epreuve 3 de la tour."
+  },
+  {
+    "id": 195,
+    "name": "Teinte\ntemporelle",
+    "zone": "Tour Éternelle",
+    "niveau": "24",
+    "bonus": "Santé ?Défense ?Les teintes énergisantes confèrent également Rapidité.",
+    "emplacement": "Obtenu en\nréussissant le Niv 4, Epreuve 3 de la tour."
+  },
+  {
+    "id": 196,
+    "name": "Vulnérabilité\naméliorée",
+    "zone": "Tour Éternelle",
+    "niveau": "21",
+    "bonus": "Vitesse 293\n Chances de critique 23 %\n+15 % à l’augmentation imposée par Vulnérabilité.",
+    "emplacement": "Obtenu en\nréussissant le Niv 1, Epreuve 3 de la tour."
+  },
+  {
+    "id": 197,
+    "name": "Plus\nqu’un",
+    "zone": "Falaises Obscures",
+    "niveau": "31",
+    "bonus": "Chances de\ncritique 108 %La santé maximale est de 1 .",
+    "emplacement": "Obtenu en\nbattant le Mime des Falaises Obscures"
+  },
+  {
+    "id": 198,
+    "name": "Brûlures\nprolongées",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Santé 2\n570Défense 1\n 426 La durée de Brûlure augmente de 2 .",
+    "emplacement": "À acheter au\nmarchand Fusoka pour 142 625 chroma."
+  },
+  {
+    "id": 199,
+    "name": "Charges sur\naltération",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Défense 1501\n Vitesse 546\n+10 % de charge Gradient en appliquant un buff. Une fois par\ntour.",
+    "emplacement": "Partez de la\npetite tour où rode le cultiste épéiste et utilisez votre grappin\nplusieurs fois jusqu’à atteindre le picto."
+  },
+  {
+    "id": 200,
+    "name": "Charges sur\nfracture",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 546\n Chances de critique 32 %\nDégâts de Fracture des attaques Gradient augmentés de 50 %.",
+    "emplacement": "À acheter au\nmarchand Fusoka pour 97 800 chroma."
+  },
+  {
+    "id": 201,
+    "name": "Étourdissement énergisant",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 519\n Chances de critique 31 %\n+1 PA en frappant une cible étourdie à l’aide d’une\ncompétence.",
+    "emplacement": "Récupérable\ndans la sphère de peinture dans la deuxième zone à droite depuis la\nplace centrale. Nécessite la capacité Brise Peinture pour atteindre\nla sphère."
+  },
+  {
+    "id": 202,
+    "name": "Fracture\nralentissante",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Défense 1\n501 Vitesse 546\n Applique Lenteur en cas de Fracture.",
+    "emplacement": "À acheter au\nmarchand Fusoka pour 97 800 chroma."
+  },
+  {
+    "id": 203,
+    "name": "Fracture\nrenforçante",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 546\n Chances de critique 32 %\nGagne Surpuissance en Fracturant un ennemi.",
+    "emplacement": "Après avoir\nbattu le Cruleur dans la deuxième zone à gauche depuis la place\ncentrale, le picto se ramasse au sol."
+  },
+  {
+    "id": 204,
+    "name": "Marque après\nmarque",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 675\n Chances de critique 22 %\n50 % de chances d’appliquer Marque en attaquant une cible déjà\nmarquée.",
+    "emplacement": "À acheter au\nmarchand Fusoka pour 122 250 chroma."
+  },
+  {
+    "id": 205,
+    "name": "Marque\nsurpuissante",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 779\n Chances de critique 16 %\nGagne Surpuissance en touchant un ennemi marqué.",
+    "emplacement": "Grimpez à\nl’aide des prises d’escalade et battez les deux ennemis pour\nramasser le picto au sol."
+  },
+  {
+    "id": 206,
+    "name": "Parade\nrenforçante",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 546\n Chances de critique 32 %\nChaque parade réussie augmente les dégâts infligés de 5 % jusqu’à l\nafin du tour suivant. Le fait de subir le moindre dégât dissipe ce\nbuff.",
+    "emplacement": "À acheter au\nmarchand Fusoka pour 97 800 chroma."
+  },
+  {
+    "id": 207,
+    "name": "Peintre",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 519\n Chances de critique 31 %\nConvertit tous les dégâts physiques en dégâts de néant.",
+    "emplacement": "Dans la\ndeuxième zone à droite de la place centrale, montez les escaliers\nsur votre droite et suivez le chemin. Utilisez ensuite le grappin\net sautez 2 fois pour trouver le picto."
+  },
+  {
+    "id": 208,
+    "name": "Renaissance\nsurpuissante",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse ?Chances de critique ?Confère Surpuissance pendant 3 tours en revenant à la vie.",
+    "emplacement": "Récupérable\ndans la sphère de peinture en hauteur dans la zone du boss\nDuelliste."
+  },
+  {
+    "id": 209,
+    "name": "Spécialiste\ndes fractures",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Santé 2\n705 Vitesse 546\nDégâts de Fracture augmentés de 50 %, mais dégâts de base réduits de 20 %.",
+    "emplacement": "À acheter au\nmarchand Fusoka pour 81 500 chroma."
+  },
+  {
+    "id": 210,
+    "name": "Tirs\naccélérants",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Santé 4\n869Défense 30120\n% de chances de gagner Rapidité sur les tirs en visée livre.",
+    "emplacement": "À acheter au\nmarchand Fusoka pour 89 650 chroma."
+  },
+  {
+    "id": 211,
+    "name": "Tirs\nénergisants",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Vitesse 779\n Chances de critique 16 %\n20 % de chances de gagner 1 PA sur les tirs en visée libre.",
+    "emplacement": "À ramasser au\nsol dans l’arène du Goblu."
+  },
+  {
+    "id": 212,
+    "name": "Tirs\nprotecteurs",
+    "zone": "Manoir Suspendu",
+    "niveau": "28",
+    "bonus": "Santé 4\n869Défense 30120\n% de chances de gagner Carapace sur les tirs en visée libre.",
+    "emplacement": "Posé sur\nl’angle d’un des cadres vides."
+  },
+  {
+    "id": 213,
+    "name": "Vitalité de\nCléa",
+    "zone": "Manoir Suspendu",
+    "niveau": "30",
+    "bonus": "Santé 5591\nRécupère 100 % de santé au début du tour si aucun dégât n’a été subi\ndepuis le précédent tour.",
+    "emplacement": "Obtenu en\nbattant Cléa."
+  },
+  {
+    "id": 214,
+    "name": "Pro du\nrepli",
+    "zone": "Camp",
+    "niveau": "17",
+    "bonus": "Santé 826\n Vitesse 164\n Permet une fuite instantanée.",
+    "emplacement": "Obtenu auprès\nde Sastro en récompense pour lui avoir ramené les Gestrals\nperdus."
+  },
+  {
+    "id": 215,
+    "name": "Anti-Étourdissement",
+    "zone": "Continent",
+    "niveau": "29",
+    "bonus": "Santé 2\n757Défense 1\n 572 Immunité contre Étourdissement.",
+    "emplacement": "Obtenu en\nbattant le Petank Chromatique."
+  },
+  {
+    "id": 216,
+    "name": "Assurance",
+    "zone": "Continent",
+    "niveau": "29",
+    "bonus": "Vitesse 557\n Chances de critique 33 %\nSubit 50 % de dégâts en moins mais ne peut pas recevoir de\nsoin.",
+    "emplacement": "Obtenu en\nbattant le trio d’ennemis près du carrousel à l’est du Casino\nflottant."
+  },
+  {
+    "id": 217,
+    "name": "Brûlure\nFracturante",
+    "zone": "Continent",
+    "niveau": "15",
+    "bonus": "Vitesse 243\n Chances de critique 9 %\nDégâts de Fracture augmentés de 25 % contre les ennemis affectés par\nBrûlure.",
+    "emplacement": "Au sol\nderrière le Bourgeon situé au nord-ouest de la Plage Gestral."
+  },
+  {
+    "id": 218,
+    "name": "Brûlures\nprolongées",
+    "zone": "Continent",
+    "niveau": "27",
+    "bonus": "Santé 2\n392Défense 1\n 292 La durée de Brûlure augmente de 2 .",
+    "emplacement": "Obtenu en\nbattant l’Aberration Chromatique."
+  },
+  {
+    "id": 219,
+    "name": "Carapace\nprolongée",
+    "zone": "Continent",
+    "niveau": "29",
+    "bonus": "Santé ?Défense ?En appliquant Carapace, sa durée augmente de 2 .",
+    "emplacement": "Battre le\nVeilleur dans la zone surélevée à l’ouest de la sortie nord des\nTerres Oubliées. Nécessite d’avoir débloqué la capacité de voler\nd’Esquie."
+  },
+  {
+    "id": 220,
+    "name": "Carapace\nsurpuissante",
+    "zone": "Continent",
+    "niveau": "23",
+    "bonus": "Défense ?Chances de critique ? Applique également Surpuissance en appliquant\nCarapace.",
+    "emplacement": "Battre le\nBourgeon dans une zone cloisonnée à l’est du cimetière tranchant.\nNécessite d’avoir débloqué la capacité de voler d’Esquie."
+  },
+  {
+    "id": 221,
+    "name": "Contre\namélioré I",
+    "zone": "Continent",
+    "niveau": "23",
+    "bonus": "Santé 2618\n Chances de critique 13 %\nDégâts de contre augmentés de 25 %.",
+    "emplacement": "Battre le\nBourgeon au sud-est des Terres Oubliées. Nécessite d’avoir débloqué\nla capacité de voler d’Esquie."
+  },
+  {
+    "id": 222,
+    "name": "Critiques sur\nvulnérabilité",
+    "zone": "Continent",
+    "niveau": "9",
+    "bonus": "Défense 116\n Vitesse 62\n Chances de critique augmentées de 25 % contre les ennemis affectés\npar Vulnérabilité.",
+    "emplacement": "Devant un\npetit campement accessible par la plage au nord-ouest de Feuilles\nAmbrées."
+  },
+  {
+    "id": 223,
+    "name": "Échauffement",
+    "zone": "Continent",
+    "niveau": "15",
+    "bonus": "Santé 1166\n Chances de critique 9 %\nDégâts augmentés de 5 % par tour. Peut se cumuler jusqu’à 5\nfois.",
+    "emplacement": "Obtenu en\nbattant le boss Grosse Tête situé devant la Grotte Côtière."
+  },
+  {
+    "id": 224,
+    "name": "Énergie –\nCarapace",
+    "zone": "Continent",
+    "niveau": "15",
+    "bonus": "Défense 319\n Vitesse 154\n Confère 2 PA en appliquant Carapace.",
+    "emplacement": "Dans la zone\nà l’est du Casino flottant, cassez l’un des rochers au pied d’un\ngros pilier avec la capacité Brise Peinture pour obtenir le picto.\nNécessite la capacité de voler d’Esquie."
+  },
+  {
+    "id": 225,
+    "name": "Énergie –\nDépart I",
+    "zone": "Continent",
+    "niveau": "6",
+    "bonus": "Santé 320\n+1 PA au début du combat.",
+    "emplacement": "Sur la plage\naprès l’entrée des Falaises de Rochevague. Ne peut être atteint\nqu’en cassant les rochers avec Esquie."
+  },
+  {
+    "id": 226,
+    "name": "Énergie\nmaîtrisée",
+    "zone": "Continent",
+    "niveau": "30",
+    "bonus": "Santé 4870\n+1 PA à chaque gain de PA.",
+    "emplacement": "Obtenu en\nbattant le Serpenphare. Vous aurez besoin de la capacité de voler\nd’Esquie pour l’atteindre."
+  },
+  {
+    "id": 227,
+    "name": "Énergie\nmortelle I",
+    "zone": "Continent",
+    "niveau": "15",
+    "bonus": "Vitesse 162\n Chances de critique 17 %\n+3 PA en tuant un ennemi.",
+    "emplacement": "Sur l’île du\nmini-niveau Rives Obscures. Nécessite d’avoir débloqué la capacité\nde nager d’Esquie."
+  },
+  {
+    "id": 228,
+    "name": "Esquive\nrenforçante",
+    "zone": "Continent",
+    "niveau": "15",
+    "bonus": "Vitesse 162\n Chances de critique 17 %\nLes dégâts augmentent de 5 % à chaque esquive successive réussie. Se\ncumule un maximum de 10 fois.",
+    "emplacement": "Se trouve au\nnord-ouest d’une forêt rouge située au sud-est de la Plage Gestral\nEscalade. Nécessite d’avoir débloqué la capacité de voler\nd’Esquie."
+  },
+  {
+    "id": 229,
+    "name": "Fracture\ncritique",
+    "zone": "Continent",
+    "niveau": "14",
+    "bonus": "Vitesse 203\n Chances de critique 8 %\nDégâts de Fracture augmentés de 25 % en cas de coup critique.",
+    "emplacement": "Sur la plage\nà l’ouest de Regards Occultes, cassez le rocher avec la capacité\nBrise Peinture pour trouver le picto."
+  },
+  {
+    "id": 230,
+    "name": "Fracture\nEmbrasante",
+    "zone": "Continent",
+    "niveau": "27",
+    "bonus": "Vitesse 507\n Chances de critique 31 %\nFracturer une cible double son nombre de Brûlures.",
+    "emplacement": "Le picto se\nsitue non loin de l’entrée du mini-niveau Carrousel. Ce dernier est\naccessible depuis la sortie nord-est de la Gare de Monoco."
+  },
+  {
+    "id": 231,
+    "name": "Gradient\nénergisant",
+    "zone": "Continent",
+    "niveau": "17",
+    "bonus": "Vitesse 293\n Chances de critique 10 %\n+ 1 PA par charge Gradient consommée.",
+    "emplacement": "Obtenu en\nbattant l’Évêque Glacial."
+  },
+  {
+    "id": 232,
+    "name": "Guérison\naccélérante",
+    "zone": "Continent",
+    "niveau": "9",
+    "bonus": "Santé 329\n Vitesse 65\n Soigner un allié lui confère également Rapidité pendant 1\ntour.",
+    "emplacement": "Sur la petite\nîle que vous croiserez juste après avoir quitté les Falaises de\nRochevague."
+  },
+  {
+    "id": 233,
+    "name": "Lenteur\nfracturante",
+    "zone": "Continent",
+    "niveau": "15",
+    "bonus": "Vitesse 162\n Chances de critiques 17 %Dégâts de Fracture augmentés de 25 % contre les ennemis\nralentis.",
+    "emplacement": "Cassez l’un\ndes rochers au sud-ouest de la Grotte de Mitrien avec la capacité\nBrise Peinture. Nécessite la capacité de voler d’Esquie."
+  },
+  {
+    "id": 234,
+    "name": "Mort\nfracturante",
+    "zone": "Continent",
+    "niveau": "29",
+    "bonus": "Vitesse 586\n Chances de critique 33 %\nCharge totalement la jauge de Fracture de l’ennemi quand le\npersonnage meurt.",
+    "emplacement": "Obtenu en\nbattant l’Évêque chromatique électrique situé derrière la Grotte de\nRochevague. Vous aurez besoin de la capacité de voler d’Esquie pour\nl’atteindre."
+  },
+  {
+    "id": 235,
+    "name": "Parade\nCurative",
+    "zone": "Continent",
+    "niveau": "5",
+    "bonus": "Santé 127\nDéfense 34\nRécupère 3 % de santé à chaque parade réussie.",
+    "emplacement": "Au fond du\nchemin où se trouve le bourgeon, le picto est au sol devant un\npetit campement."
+  },
+  {
+    "id": 236,
+    "name": "Parade\npérilleuse",
+    "zone": "Continent",
+    "niveau": "29",
+    "bonus": "Vitesse 586\n Chances de critique 33 %\n+1 PA en cas de parade réussie, mais les dégâts subis sont\ndoublés.",
+    "emplacement": "Obtenu en\nbattant l’Orphelin, la Chevalière en or et un autre ennemi au\nsud-ouest des Ruines Esotériques. Nécessite la capacité de voler\nd’Esquie."
+  },
+  {
+    "id": 237,
+    "name": "Rapidité\nprolongée",
+    "zone": "Continent",
+    "niveau": "15",
+    "bonus": "Santé 778\n Vitesse 154\n En appliquant Rapidité, sa durée augmente de 2 .",
+    "emplacement": "Rendez-vous\ndans la zone cloisonnée au sud de Glacier Ardent pour trouver le\npicto devant un campement. Nécessite d’avoir débloqué la capacité\nde voler d’Esquie."
+  },
+  {
+    "id": 238,
+    "name": "Renaissance\nsurpuissante",
+    "zone": "Continent",
+    "niveau": "8",
+    "bonus": "Vitesse 54\n Chances de critique 11 %\nConfère Surpuissance pendant 3 tours en revenant à la vie.",
+    "emplacement": "Obtenu en\nbattant le Bruleur Chromatique entre le Village des Gestrals et\nMoisson Dorée."
+  },
+  {
+    "id": 239,
+    "name": "Soins\nénergisants",
+    "zone": "Continent",
+    "niveau": "7",
+    "bonus": "Santé 206\n Vitesse 41\n Confère également 2 PA à l’allié soigné.",
+    "emplacement": "Sur la plage\nau nord de l’île de l’Arbre Blanc."
+  },
+  {
+    "id": 240,
+    "name": "Soins\npartagés",
+    "zone": "Continent",
+    "niveau": "7",
+    "bonus": "Santé 206\nDéfense 68\n En soignant un allié, se soigne également, mais deux fois\nmoins.",
+    "emplacement": "Près de\nl’entrée du mini-niveau Arbre Blanc."
+  },
+  {
+    "id": 241,
+    "name": "Soutien\nefficace",
+    "zone": "Continent",
+    "niveau": "14",
+    "bonus": "Santé 721\n Vitesse 142\n+2 PA en utilisant un objet.",
+    "emplacement": "Dans un\ncampement situé au nord-est des Dunes de Sirène. Nécessite d’avoir\ndébloqué la capacité de voler d’Esquie."
+  },
+  {
+    "id": 242,
+    "name": "Teinte\nchargeante",
+    "zone": "Continent",
+    "niveau": "9",
+    "bonus": "Santé 329\nDéfense 1225\n% de chage Gradient en utilisant un objet.",
+    "emplacement": "Après avoir\nbattu le Stalact au sud de la Plage Gestral du mini-jeu de la\ngéante ascension. Se ramasse au sol tout près."
+  },
+  {
+    "id": 243,
+    "name": "Teinte\npréservante",
+    "zone": "Continent",
+    "niveau": "9",
+    "bonus": "Santé 313\nDéfense 116\n Les teintes curatives confèrent également 2 boucliers.",
+    "emplacement": "Rendez-vous\ndans la zone cloisonnée à l’est du cimetière tranchant pour trouver\nle picto au milieu des ruines. Nécessite d’avoir débloqué la\ncapacité de voler d’Esquie."
+  },
+  {
+    "id": 244,
+    "name": "Tireur\nd’élite",
+    "zone": "Continent",
+    "niveau": "23",
+    "bonus": "Vitesse ?Chances de critique ?Chaque tour, le premier tir en visée libre inflige 200 % de dégâts\nen plus et offre une possibilité de Fracture.",
+    "emplacement": "Battre les\nennemis dans la zone cloisonnée au sud de Glacier Ardent. Nécessite\nd’avoir débloqué la capacité de voler d’Esquie."
+  },
+  {
+    "id": 245,
+    "name": "Tricheur",
+    "zone": "Continent",
+    "niveau": "24",
+    "bonus": "Santé 1198\n Vitesse 400\n Joue toujours deux fois de suite.",
+    "emplacement": "Obtenu en\nbattant le Sprong. Nécessite d’avoir débloqué la capacité de nager\nd’Esquie."
+  }
+]
