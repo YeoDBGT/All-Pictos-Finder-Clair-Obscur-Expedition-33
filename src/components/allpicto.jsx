@@ -17,7 +17,7 @@ const AllPicto = () => {
   useEffect(() => {
     const loadPictos = async () => {
       try {
-        const response = await fetch('/pictofr_new.json');
+        const response = await fetch('/All-Pictos-Finder-Clair-Obscur-Expedition-33/pictofr_new.json');
         const data = await response.json();
         setPictos(data);
         setLoading(false);
