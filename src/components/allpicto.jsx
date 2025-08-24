@@ -264,6 +264,46 @@ const AllPicto = () => {
               <li>Utilisez la recherche pour trouver des pictos par effet ou zone</li>
             </ul>
           </div>
+
+          <div className="usage-tips">
+            <h3>💾 Sauvegarde et Partage de Progression</h3>
+            
+            <div className="color-item">
+              <span className="color-badge" style={{backgroundColor: '#43b581', color: 'white'}}>📤 Exporter</span>
+              <span className="color-description">
+                <strong>Comment ça marche :</strong> Cliquez sur "📤 Exporter la progression" pour télécharger un fichier de sauvegarde de votre progression actuelle.
+              </span>
+            </div>
+            
+            <div className="color-item">
+              <span className="color-badge" style={{backgroundColor: '#faa61a', color: 'white'}}>📥 Importer</span>
+              <span className="color-description">
+                <strong>Comment ça marche :</strong> Cliquez sur "📥 Importer la progression" et sélectionnez un fichier de sauvegarde précédemment exporté.
+              </span>
+            </div>
+
+            <h4 style={{color: 'var(--discord-text)', marginTop: '20px', marginBottom: '15px'}}>🔍 Qu'est-ce qu'un fichier JSON ?</h4>
+            <p style={{color: 'var(--discord-text-muted)', fontSize: '0.9rem', lineHeight: '1.5', marginBottom: '15px'}}>
+              Un fichier JSON est un format de fichier standard qui permet de sauvegarder des informations de manière organisée. 
+              C'est comme un "carnet de notes numérique" que votre ordinateur peut lire et comprendre.
+            </p>
+
+            <h4 style={{color: 'var(--discord-text)', marginTop: '20px', marginBottom: '15px'}}>📱 Comment utiliser ces fichiers ?</h4>
+            <ul style={{color: 'var(--discord-text-muted)', fontSize: '0.9rem', lineHeight: '1.5'}}>
+              <li><strong>Pour sauvegarder :</strong> L'exportation crée automatiquement un fichier que vous pouvez stocker sur votre ordinateur, téléphone ou dans le cloud</li>
+              <li><strong>Pour partager :</strong> Envoyez le fichier exporté à un ami pour qu'il puisse importer votre progression</li>
+              <li><strong>Pour changer d'appareil :</strong> Exportez sur un appareil, puis importez sur un autre</li>
+              <li><strong>Pour faire une sauvegarde de sécurité :</strong> Gardez plusieurs versions de votre progression à différents moments</li>
+            </ul>
+
+            <h4 style={{color: 'var(--discord-text)', marginTop: '20px', marginBottom: '15px'}}>⚠️ Points importants</h4>
+            <ul style={{color: 'var(--discord-text-muted)', fontSize: '0.9rem', lineHeight: '1.5'}}>
+              <li>Les fichiers JSON ne contiennent que votre progression, pas vos données personnelles</li>
+              <li>Vous pouvez importer/exporter autant de fois que vous voulez</li>
+              <li>L'importation remplace complètement votre progression actuelle</li>
+              <li>Gardez vos fichiers de sauvegarde dans un endroit sûr</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
